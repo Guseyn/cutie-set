@@ -1,2 +1,2 @@
-# cutie-set
-Async object that represents set of representations of async objects.
+# cutie-utils
+Util objects(with no util methods) for async compositions.
